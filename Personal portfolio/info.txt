@@ -1,0 +1,23 @@
+ABOUT ME
+
+I graduated Magnum Cum Laude from Loyola University of New Orleans in May of 2018 with a bachelor's of accountancy and a bachelors in finance.
+Currently I'm enrolled in Loyola's Software Development and Coding Program learning to become a full stack developer while studying for the CPA Exam.
+I'm fascinated by the tech industry with a passion to solve problems either through creation or fixing an extisting problem.
+After completion of the Software Development and Coding Program, I envision myself becoming a developer with a focus on the business aspect or an IT auditor.
+
+PROJECTS
+
+Backend Project
+I've worked on an IMDB project in my Software Development and Coding Program by using SQL to create a database containing movies, actors, directors, and characters (click here for SQL code).
+
+Frontend Project
+My personal portfolio website, which you're currently viewing, is my frontend project that I created with the use of HTML and CSS (click here to view code).
+
+SKILLS
+	SQL, HTML, CSS, Accounting, Finance
+EXPERIENCE
+	Waterfront Wealth Management, Johnson, Rice, & Company LLC
+EDUCATION
+	Loyola University of New Orleans 
+VOLUNTEER
+	English Second Language (ESL)
